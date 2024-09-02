@@ -20,5 +20,5 @@ def printer(speakers):
     for assignment in room_assignments:
         print(assignment)
 
-speaker_list = ["Arel", "Carol", "John"]
+speaker_list = ["joshua", "lee", "mitchelles",]
 printer(speaker_list)
